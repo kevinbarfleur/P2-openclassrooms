@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//projects.kevinbarfleur.space/chaletsetcaviar/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://projects.kevinbarfleur.space/chaletsetcaviar/</loc>
+		<lastmod>2020-07-14T09:44:11+00:00</lastmod>
+		<image:image>
+			<image:loc>https://projects.kevinbarfleur.space/chaletsetcaviar/wp-content/uploads/2020/04/chaletHome-1024x683.jpg</image:loc>
+			<image:caption><![CDATA[Chalets et Caviars Home]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://projects.kevinbarfleur.space/chaletsetcaviar/wp-content/uploads/2020/04/Chalet-5-1024x683.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://projects.kevinbarfleur.space/chaletsetcaviar/wp-content/uploads/2020/04/Chalet-6-1024x681.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://projects.kevinbarfleur.space/chaletsetcaviar/wp-content/uploads/2020/06/Screen-Shot-2020-06-24-at-17.09.29.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://projects.kevinbarfleur.space/chaletsetcaviar/wp-content/uploads/2020/06/Screen-Shot-2020-06-24-at-17.09.45.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://projects.kevinbarfleur.space/chaletsetcaviar/wp-content/uploads/2020/06/Screen-Shot-2020-06-24-at-17.09.38.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://projects.kevinbarfleur.space/chaletsetcaviar/nous-contacter/</loc>
+		<lastmod>2020-07-14T09:46:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://projects.kevinbarfleur.space/chaletsetcaviar/conditions-generales-dutilisation-cgu/</loc>
+		<lastmod>2020-07-11T18:19:57+00:00</lastmod>
+	</url>
+</urlset>

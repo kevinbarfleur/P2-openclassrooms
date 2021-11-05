@@ -1,0 +1,30 @@
+# BEGIN WP Hide & Security Enhancer
+<IfModule mod_rewrite.c> 
+RewriteEngine On 
+RewriteBase /chaletsetcaviar/ 
+#WriteCheckString:1596614489_91552
+RewriteRule .* - [E=HTTP_MOD_REWRITE:On]
+
+RewriteCond %{REQUEST_URI} /chaletsetcaviar/cec-gestion$
+RewriteRule ^(.*)$ /chaletsetcaviar/cec-gestion/ [R=301,L]
+RewriteRule ^cec-gestion(.*) /chaletsetcaviar/wp-admin$1 [L,QSA]
+</IfModule> 
+
+# END WP Hide & Security Enhancer
+#This Apache config file was created by Duplicator Installer on 2020-08-05 07:54:53.
+#The original can be found in archived file with the name .htaccess__[HASH]
+
+# BEGIN WordPress
+# Les directives (lignes) entre 'BEGIN WordPress' et 'END WordPress' sont
+# généré dynamiquement, et ne doivent uniquement être modifiées via les filtres WordPress.
+# Toute modification des directives entre ces marqueurs sera outrepassée.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /chaletsetcaviar/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /chaletsetcaviar/index.php [L]
+</IfModule>
+
+# END WordPress
